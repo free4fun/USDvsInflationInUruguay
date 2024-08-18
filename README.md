@@ -1,7 +1,3 @@
-id: readme
-name: README
-type: markdown
-content: |-
   # Monthly Dollar Change vs. Inflation Analysis
 
   This project contains two Python scripts that analyze the monthly change in the dollar and compare it with inflation using data from the National Institute of Statistics of Uruguay.
