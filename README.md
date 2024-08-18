@@ -55,4 +55,4 @@ content: |-
 
   ## Contact
 
-  For questions or comments, please contact [your_email@domain.com].
+  For questions or comments, please contact [free4fun@riseup.net].
