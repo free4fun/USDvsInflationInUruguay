@@ -1,6 +1,7 @@
   # Monthly Dollar Change vs. Inflation Analysis
 
   This project contains two Python scripts that analyze the monthly change in the dollar and compare it with inflation using data from the National Institute of Statistics of Uruguay.
+![Monthly Dollar Change vs. Inflation](https://github.com/free4fun/USDvsInflationInUruguay/blob/master/cambio_dolar_vs_inflacion.png)
 
   ## Script Descriptions
 
